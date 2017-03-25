@@ -1,4 +1,4 @@
-import { AcsPage } from './app.po';
+import {AcsPage} from "./app.po";
 
 describe('acs App', () => {
   let page: AcsPage;
